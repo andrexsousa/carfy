@@ -1,0 +1,10 @@
+C:\Users\informatica\Pictures\carfy\bin\Debug\carfy.exe.config
+C:\Users\informatica\Pictures\carfy\bin\Debug\carfy.exe
+C:\Users\informatica\Pictures\carfy\bin\Debug\carfy.pdb
+C:\Users\informatica\Pictures\carfy\obj\Debug\carfy.csprojAssemblyReference.cache
+C:\Users\informatica\Pictures\carfy\obj\Debug\carfy.Form1.resources
+C:\Users\informatica\Pictures\carfy\obj\Debug\carfy.Properties.Resources.resources
+C:\Users\informatica\Pictures\carfy\obj\Debug\carfy.csproj.GenerateResource.cache
+C:\Users\informatica\Pictures\carfy\obj\Debug\carfy.csproj.CoreCompileInputs.cache
+C:\Users\informatica\Pictures\carfy\obj\Debug\carfy.exe
+C:\Users\informatica\Pictures\carfy\obj\Debug\carfy.pdb
